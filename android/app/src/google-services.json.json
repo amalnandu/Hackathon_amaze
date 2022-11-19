@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115635188927",
+    "project_id": "farmhack-f399e",
+    "storage_bucket": "farmhack-f399e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115635188927:android:619b719ce8592f2e95c20a",
+        "android_client_info": {
+          "package_name": "com.example.farm_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115635188927-r2bfev3tj3eter92g3qtnd4a8o5cfijn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXSHsoqlwsZE_HVQVfrU3Mi06SXv2iqb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115635188927-r2bfev3tj3eter92g3qtnd4a8o5cfijn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
